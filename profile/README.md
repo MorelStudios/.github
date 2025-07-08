@@ -4,7 +4,7 @@
 
 > Mushrooms are cool
 
-[website]
+[website]()
 •
 [Contact](mailto:morel.studios@outlook.com)
 
